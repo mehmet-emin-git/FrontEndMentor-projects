@@ -70,7 +70,7 @@ projects.forEach(({ name, githubRepo, liveDemo }, i) => {
 
   listItem.innerHTML = `
 		<a href="/${name}/index.html">
-			<img src="https://github.com/mehmet-emin-git/${name}/design/desktop-preview.jpg" alt="${name}" />
+			<img src="https://github.com/mehmet-emin-git/${name}/tree/master/design/desktop-preview.jpg" alt="${name}" />
 			<p>${i + 1}. ${formatProjectName(name)}</p>
 		</a>
 		<div class="links-container">
