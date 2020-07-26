@@ -31,16 +31,18 @@ const projects = [
     liveDemo:
       "https://mehmet-emin-git.github.io/huddle-landing-page-alt-featBlock/",
   },
-  // {
-  // 	name: 'huddle-simple-landing',
-  // 	youtube:
-  // 		'https://www.youtube.com/watch?v=ObrYwPRyeqc&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=8&t=0s'
-  // },
-  // {
-  // 	name: 'fylo-landing-page',
-  // 	youtube:
-  // 		'https://www.youtube.com/watch?v=a9-Ro9rc7E4&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=9&t=0s'
-  // },
+  {
+    name: "huddle-landing-page-with-single-introductory-section",
+    githubRepo: "https://github.com/mehmet-emin-git/Huddle-landing-page-single",
+    liveDemo: "https://mehmet-emin-git.github.io/Huddle-landing-page-single/",
+  },
+  {
+    name: "fylo-landing-page-with-two-column-layout",
+    githubRepo:
+      "https://github.com/mehmet-emin-git/Fylo-landing-page-with-2column-layout",
+    liveDemo:
+      "https://mehmet-emin-git.github.io/Fylo-landing-page-with-2column-layout/",
+  },
   // {
   // 	name: 'insure-landing-page',
   // 	youtube:
@@ -69,10 +71,10 @@ projects.forEach(({ name, githubRepo, liveDemo }, i) => {
   const listItem = document.createElement("li");
 
   listItem.innerHTML = `
-		<a href="/${name}/index.html">
-			<img src="https://github.com/mehmet-emin-git/${name}/tree/master/design/desktop-preview.jpg" alt="${name}" />
-			<p>${i + 1}. ${formatProjectName(name)}</p>
-		</a>
+  <a href="/${name}/index.html">
+  <img src="/${name}/design/desktop-preview.jpg" alt="${name}" />
+  <p>${i + 1}. ${formatProjectName(name)}</p>
+  </a>
 		<div class="links-container">
       <a href="${liveDemo}" class="live">
       <i class="fas fa-eye"></i>

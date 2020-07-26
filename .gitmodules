@@ -1,0 +1,21 @@
+[submodule "fem-cards-layout"]
+	path = fem-cards-layout
+	url = https://github.com/mehmet-emin-git/fem-cards-layout
+[submodule "base-aparel-coming-soon"]
+	path = base-aparel-coming-soon
+	url = https://github.com/mehmet-emin-git/base-aparel-coming-soon
+[submodule "signUp-form"]
+	path = signUp-form
+	url = https://github.com/mehmet-emin-git/signUp-form
+[submodule "single-price-component"]
+	path = single-price-component
+	url = https://github.com/mehmet-emin-git/single-price-component
+[submodule "ping-single-column"]
+	path = ping-single-column
+	url = https://github.com/mehmet-emin-git/ping-single-column
+[submodule "Fylo-landing-page-with-2column-layout"]
+	path = Fylo-landing-page-with-2column-layout
+	url = https://github.com/mehmet-emin-git/Fylo-landing-page-with-2column-layout
+[submodule "Huddle-landing-page-single"]
+	path = Huddle-landing-page-single
+	url = https://github.com/mehmet-emin-git/Huddle-landing-page-single
