@@ -1,43 +1,43 @@
 const projects = [
   {
-    name: "four-card-feature-section",
+    name: "fem-cards-layout",
     github: "https://github.com/mehmet-emin-git/fem-cards-layout",
     liveDemo: "https://mehmet-emin-git.github.io/fem-cards-layout/",
   },
   {
-    name: "base-apparel-coming-soon",
+    name: "base-aparel-coming-soon",
     githubRepo: "https://github.com/mehmet-emin-git/base-aparel-coming-soon",
     liveDemo: "https://mehmet-emin-git.github.io/base-aparel-coming-soon/",
   },
   {
-    name: "signup-form",
+    name: "signUp-form",
     githubRepo: "https://github.com/mehmet-emin-git/signUp-form",
     liveDemo: "https://mehmet-emin-git.github.io/signUp-form/",
   },
   {
-    name: "single-price-grid-component",
+    name: "single-price-component",
     githubRepo: "https://github.com/mehmet-emin-git/single-price-component",
     liveDemo: "https://mehmet-emin-git.github.io/single-price-component/",
   },
   {
-    name: "ping-coming-soon-page",
+    name: "ping-single-column",
     githubRepo: "https://github.com/mehmet-emin-git/ping-single-column",
     liveDemo: "https://mehmet-emin-git.github.io/ping-single-column/",
   },
   {
-    name: "huddle-landing-page-alt",
+    name: "huddle-landing-page-alt-featBlock",
     githubRepo:
       "https://github.com/mehmet-emin-git/huddle-landing-page-alt-featBlock",
     liveDemo:
       "https://mehmet-emin-git.github.io/huddle-landing-page-alt-featBlock/",
   },
   {
-    name: "huddle-landing-page-with-single-introductory-section",
+    name: "Huddle-landing-page-single",
     githubRepo: "https://github.com/mehmet-emin-git/Huddle-landing-page-single",
     liveDemo: "https://mehmet-emin-git.github.io/Huddle-landing-page-single/",
   },
   {
-    name: "fylo-landing-page-with-two-column-layout",
+    name: "Fylo-landing-page-with-2column-layout",
     githubRepo:
       "https://github.com/mehmet-emin-git/Fylo-landing-page-with-2column-layout",
     liveDemo:
