@@ -19,3 +19,6 @@
 [submodule "Huddle-landing-page-single"]
 	path = Huddle-landing-page-single
 	url = https://github.com/mehmet-emin-git/Huddle-landing-page-single
+[submodule "huddle-landing-page-alt-featBlock"]
+	path = huddle-landing-page-alt-featBlock
+	url = https://github.com/mehmet-emin-git/huddle-landing-page-alt-featBlock
