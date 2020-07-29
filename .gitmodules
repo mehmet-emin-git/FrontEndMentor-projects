@@ -22,3 +22,6 @@
 [submodule "huddle-landing-page-alt-featBlock"]
 	path = huddle-landing-page-alt-featBlock
 	url = https://github.com/mehmet-emin-git/huddle-landing-page-alt-featBlock
+[submodule "insure-landing-page"]
+	path = insure-landing-page
+	url = https://github.com/mehmet-emin-git/insure-landing-page
