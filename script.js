@@ -43,11 +43,11 @@ const projects = [
     liveDemo:
       "https://mehmet-emin-git.github.io/Fylo-landing-page-with-2column-layout/",
   },
-  // {
-  // 	name: 'insure-landing-page',
-  // 	youtube:
-  // 		'https://www.youtube.com/watch?v=9HVKR_hK0nY&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=10&t=0s'
-  // },
+  {
+    name: "insure-landing-page",
+    githubRepo: "https://github.com/mehmet-emin-git/insure-landing-page",
+    liveDemo: "https://mehmet-emin-git.github.io/insure-landing-page/",
+  },
   // {
   // 	name: 'pricing-toggle-component',
   // 	youtube:
