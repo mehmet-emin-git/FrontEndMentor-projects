@@ -39,10 +39,10 @@ h2::after {
   background-color: #000;
   border-radius: 10px;
   position: absolute;
-  bottom: -4px;
+  bottom: -9px;
   left: 0;
-  height: 4px;
-  width: 100px;
+  height: 3px;
+  width: 7%;
 }
 
 ul {
