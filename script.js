@@ -48,11 +48,11 @@ const projects = [
     githubRepo: "https://github.com/mehmet-emin-git/insure-landing-page",
     liveDemo: "https://mehmet-emin-git.github.io/insure-landing-page/",
   },
-  // {
-  // 	name: 'pricing-toggle-component',
-  // 	youtube:
-  // 		'https://www.youtube.com/watch?v=NBkD-O7f4Bs&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=11&t=0s'
-  // },
+  {
+    name: "pricing-components",
+    githubRepo: "https://github.com/mehmet-emin-git/pricing-components",
+    liveDemo: "https://mehmet-emin-git.github.io/pricing-components/",
+  },
   // {
   // 	name: 'tracking-info',
   // 	youtube:

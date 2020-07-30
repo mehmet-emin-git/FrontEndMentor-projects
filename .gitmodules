@@ -25,3 +25,6 @@
 [submodule "insure-landing-page"]
 	path = insure-landing-page
 	url = https://github.com/mehmet-emin-git/insure-landing-page
+[submodule "pricing-components"]
+	path = pricing-components
+	url = https://github.com/mehmet-emin-git/pricing-components
