@@ -53,11 +53,13 @@ const projects = [
     githubRepo: "https://github.com/mehmet-emin-git/pricing-components",
     liveDemo: "https://mehmet-emin-git.github.io/pricing-components/",
   },
-  // {
-  // 	name: 'tracking-info',
-  // 	youtube:
-  // 		'https://www.youtube.com/watch?v=71HM728Mul4&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=11&t=0s'
-  // },
+  {
+    name: "project-tracking-intro-component",
+    githubRepo:
+      "https://github.com/mehmet-emin-git/project-tracking-intro-component",
+    liveDemo:
+      "https://mehmet-emin-git.github.io/project-tracking-intro-component/",
+  },
   // {
   // 	name: 'clipboard-landing-page',
   // 	youtube:

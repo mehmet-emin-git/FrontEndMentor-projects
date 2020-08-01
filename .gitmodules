@@ -28,3 +28,6 @@
 [submodule "pricing-components"]
 	path = pricing-components
 	url = https://github.com/mehmet-emin-git/pricing-components
+[submodule "project-tracking-intro-component"]
+	path = project-tracking-intro-component
+	url = https://github.com/mehmet-emin-git/project-tracking-intro-component
