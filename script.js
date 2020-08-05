@@ -60,11 +60,11 @@ const projects = [
     liveDemo:
       "https://mehmet-emin-git.github.io/project-tracking-intro-component/",
   },
-  // {
-  // 	name: 'clipboard-landing-page',
-  // 	youtube:
-  // 		'https://www.youtube.com/watch?v=aZeKU7xoT0w&list=PLgBH1CvjOA63Xvt0BaeQ7zL4KXX96Wbgp&index=11&t=0s'
-  // }
+  {
+    name: "clipboard-landing-page",
+    githubRepo: "https://github.com/mehmet-emin-git/clipboard-landing-page",
+    liveDemo: "https://mehmet-emin-git.github.io/clipboard-landing-page/",
+  },
 ];
 
 const list = document.getElementById("list");

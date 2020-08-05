@@ -31,3 +31,6 @@
 [submodule "project-tracking-intro-component"]
 	path = project-tracking-intro-component
 	url = https://github.com/mehmet-emin-git/project-tracking-intro-component
+[submodule "clipboard-landing-page"]
+	path = clipboard-landing-page
+	url = https://github.com/mehmet-emin-git/clipboard-landing-page
