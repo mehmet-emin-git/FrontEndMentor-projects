@@ -129,11 +129,11 @@ ul li p {
 footer {
   background-color: rgba(255, 255, 255, 0.795);
   color: rgb(48, 48, 48);
-  font-size: 18px;
+  font-size: 16px;
   position: fixed;
   bottom: 0;
   left: 0;
-  padding: 10px;
+  padding: 10px 20px;
   width: 100%;
   text-align: center;
 }
