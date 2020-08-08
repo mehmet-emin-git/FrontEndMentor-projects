@@ -65,6 +65,12 @@ const projects = [
     githubRepo: "https://github.com/mehmet-emin-git/clipboard-landing-page",
     liveDemo: "https://mehmet-emin-git.github.io/clipboard-landing-page/",
   },
+  {
+    name: "coding-bootcamp-testimonial",
+    githubRepo:
+      "https://github.com/mehmet-emin-git/coding-bootcamp-testimonial",
+    liveDemo: "https://mehmet-emin-git.github.io/coding-bootcamp-testimonial/",
+  },
 ];
 
 const list = document.getElementById("list");
