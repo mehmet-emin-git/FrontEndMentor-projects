@@ -34,3 +34,6 @@
 [submodule "clipboard-landing-page"]
 	path = clipboard-landing-page
 	url = https://github.com/mehmet-emin-git/clipboard-landing-page
+[submodule "coding-bootcamp-testimonial"]
+	path = coding-bootcamp-testimonial
+	url = https://github.com/mehmet-emin-git/coding-bootcamp-testimonial
