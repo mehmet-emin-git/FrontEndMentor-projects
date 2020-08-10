@@ -37,3 +37,6 @@
 [submodule "coding-bootcamp-testimonial"]
 	path = coding-bootcamp-testimonial
 	url = https://github.com/mehmet-emin-git/coding-bootcamp-testimonial
+[submodule "article-preview-component"]
+	path = article-preview-component
+	url = https://github.com/mehmet-emin-git/article-preview-component
