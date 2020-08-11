@@ -40,3 +40,6 @@
 [submodule "article-preview-component"]
 	path = article-preview-component
 	url = https://github.com/mehmet-emin-git/article-preview-component
+[submodule "fylo-data-storage-component"]
+	path = fylo-data-storage-component
+	url = https://github.com/mehmet-emin-git/fylo-data-storage-component

@@ -76,6 +76,12 @@ const projects = [
     githubRepo: "https://github.com/mehmet-emin-git/article-preview-component",
     liveDemo: "https://mehmet-emin-git.github.io/article-preview-component/",
   },
+  {
+    name: "fylo-data-storage-component",
+    githubRepo:
+      "https://github.com/mehmet-emin-git/fylo-data-storage-component",
+    liveDemo: "https://mehmet-emin-git.github.io/fylo-data-storage-component/",
+  },
 ];
 
 const list = document.getElementById("list");
