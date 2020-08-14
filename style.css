@@ -5,9 +5,22 @@
 }
 
 body {
-  background: url("./Large-Triangles.svg") #d3e9e2;
+  background: url("https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png");
+  background-color: #d3e9e2;
   font-family: "Nanum Gothic", sans-serif;
+  margin: 0;
   margin-bottom: 50px;
+  width: 100%;
+}
+
+img {
+  width: 100%;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 html {
@@ -15,9 +28,58 @@ html {
 }
 
 .container {
-  width: 1200px;
+  width: 1300px;
   margin: auto;
   max-width: 100%;
+}
+
+.user {
+  padding-top: 1rem;
+  flex-direction: column;
+}
+
+.social {
+  padding-top: 1rem;
+}
+
+.social a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  border: 0.5px solid gray;
+  transition: 0.2s ease-out background;
+  margin-left: 1rem;
+}
+
+.user a:hover {
+  background: #97cdd4;
+}
+
+.user a img {
+  width: 1.2rem;
+}
+
+.avatar {
+  width: 4rem;
+  border-radius: 50%;
+}
+
+.name {
+  margin-left: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+  .flex {
+    flex-direction: column;
+  }
+
+  .social {
+    flex-direction: row;
+  }
 }
 
 h1 {
@@ -29,21 +91,20 @@ h1 {
 }
 
 h2 {
-  position: relative;
-  left: 20px;
-  margin-bottom: 5rem;
+  text-align: center;
+  text-decoration-line: underline;
 }
 
-h2::after {
+/* h2::after {
   content: "";
   background-color: #000;
   border-radius: 10px;
   position: absolute;
   bottom: -9px;
   left: 0;
-  height: 3px;
-  width: 7%;
-}
+  height: 0.5px;
+  width: 50%;
+} */
 
 ul {
   display: flex;
