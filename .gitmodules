@@ -43,3 +43,6 @@
 [submodule "fylo-data-storage-component"]
 	path = fylo-data-storage-component
 	url = https://github.com/mehmet-emin-git/fylo-data-storage-component
+[submodule "social-media-dashboard"]
+	path = social-media-dashboard
+	url = https://github.com/mehmet-emin-git/social-media-dashboard
