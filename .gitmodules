@@ -46,3 +46,9 @@
 [submodule "social-media-dashboard"]
 	path = social-media-dashboard
 	url = https://github.com/mehmet-emin-git/social-media-dashboard
+[submodule "fylo-dark-landing-page"]
+	path = fylo-dark-landing-page
+	url = https://github.com/mehmet-emin-git/fylo-dark-landing-page
+[submodule "chat-app-illustration"]
+	path = chat-app-illustration
+	url = https://github.com/mehmet-emin-git/chat-app-illustration

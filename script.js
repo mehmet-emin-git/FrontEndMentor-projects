@@ -87,6 +87,16 @@ const projects = [
     githubRepo: "https://github.com/mehmet-emin-git/social-media-dashboard",
     liveDemo: "https://mehmet-emin-git.github.io/social-media-dashboard/",
   },
+  {
+    name: "fylo-dark-landing-page",
+    githubRepo: "https://github.com/mehmet-emin-git/fylo-dark-landing-page",
+    liveDemo: "https://mehmet-emin-git.github.io/fylo-dark-landing-page/",
+  },
+  {
+    name: "chat-app-illustration",
+    githubRepo: "https://github.com/mehmet-emin-git/chat-app-illustration",
+    liveDemo: "https://mehmet-emin-git.github.io/chat-app-illustration/",
+  },
 ];
 
 const list = document.getElementById("list");
