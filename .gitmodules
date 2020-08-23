@@ -52,3 +52,6 @@
 [submodule "chat-app-illustration"]
 	path = chat-app-illustration
 	url = https://github.com/mehmet-emin-git/chat-app-illustration
+[submodule "Huddle-landing-pages-curves"]
+	path = Huddle-landing-pages-curves
+	url = https://github.com/mehmet-emin-git/Huddle-landing-pages-curves

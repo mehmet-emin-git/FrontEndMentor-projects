@@ -97,6 +97,11 @@ const projects = [
     githubRepo: "https://github.com/mehmet-emin-git/chat-app-illustration",
     liveDemo: "https://mehmet-emin-git.github.io/chat-app-illustration/",
   },
+  {
+    name: "Huddle-landing-pages-curves",
+    githubRepo: "https://github.com/mehmet-emin-git/Huddle-landing-pages-curves",
+    liveDemo: "https://mehmet-emin-git.github.io/Huddle-landing-pages-curves/",
+  },
 ];
 
 const list = document.getElementById("list");
