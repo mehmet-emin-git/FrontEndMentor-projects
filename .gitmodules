@@ -55,3 +55,6 @@
 [submodule "Huddle-landing-pages-curves"]
 	path = Huddle-landing-pages-curves
 	url = https://github.com/mehmet-emin-git/Huddle-landing-pages-curves
+[submodule "easybank-landing-page"]
+	path = easybank-landing-page
+	url = https://github.com/mehmet-emin-git/easybank-landing-page

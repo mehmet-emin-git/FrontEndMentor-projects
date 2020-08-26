@@ -102,6 +102,11 @@ const projects = [
     githubRepo: "https://github.com/mehmet-emin-git/Huddle-landing-pages-curves",
     liveDemo: "https://mehmet-emin-git.github.io/Huddle-landing-pages-curves/",
   },
+  {
+    name: "easybank-landing-page",
+    githubRepo: "https://github.com/mehmet-emin-git/easybank-landing-page",
+    liveDemo: "https://mehmet-emin-git.github.io/easybank-landing-page/",
+  },
 ];
 
 const list = document.getElementById("list");
