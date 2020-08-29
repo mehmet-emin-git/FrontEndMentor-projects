@@ -58,3 +58,6 @@
 [submodule "easybank-landing-page"]
 	path = easybank-landing-page
 	url = https://github.com/mehmet-emin-git/easybank-landing-page
+[submodule "job-listings"]
+	path = job-listings
+	url = https://github.com/mehmet-emin-git/job-listings

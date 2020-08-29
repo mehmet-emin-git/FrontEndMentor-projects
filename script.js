@@ -107,6 +107,11 @@ const projects = [
     githubRepo: "https://github.com/mehmet-emin-git/easybank-landing-page",
     liveDemo: "https://mehmet-emin-git.github.io/easybank-landing-page/",
   },
+  {
+    name: "job-listings",
+    githubRepo: "https://github.com/mehmet-emin-git/job-listings",
+    liveDemo: "https://mehmet-emin-git.github.io/job-listings/",
+  },
 ];
 
 const list = document.getElementById("list");
