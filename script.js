@@ -112,6 +112,11 @@ const projects = [
     githubRepo: "https://github.com/mehmet-emin-git/job-listings",
     liveDemo: "https://mehmet-emin-git.github.io/job-listings/",
   },
+  {
+    name: "rest-api-contries",
+    githubRepo: "https://github.com/mehmet-emin-git/rest-api-contries",
+    liveDemo: "https://mehmet-emin-git.github.io/rest-api-contries/",
+  },
 ];
 
 const list = document.getElementById("list");

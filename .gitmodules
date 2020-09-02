@@ -61,3 +61,6 @@
 [submodule "job-listings"]
 	path = job-listings
 	url = https://github.com/mehmet-emin-git/job-listings
+[submodule "rest-api-contries"]
+	path = rest-api-contries
+	url = https://github.com/mehmet-emin-git/rest-api-contries
