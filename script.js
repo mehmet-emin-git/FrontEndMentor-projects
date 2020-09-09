@@ -130,9 +130,9 @@ projects.forEach(({ name, githubRepo, liveDemo }, i) => {
   <p>${i + 1}. ${formatProjectName(name)}</p>
   </a>
 		<div class="links-container">
-      <a href="${liveDemo}" class="live">
-      <i class="fas fa-eye"></i>
-			<a href="${githubRepo}" class="github">
+		  <a href="${liveDemo}" class="live">
+		  <i class="fas fa-eye"></i>
+		  <a href="${githubRepo}" class="github">
       <i class="fab fa-github"></i>
       </a>
     </a>
